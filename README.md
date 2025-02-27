@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Md. Kamrul Hassan Khan
 #### A passionate Software Developer
-I graduated from Noakhali Science and Technology University with a degree in Computer Science and have a strong foundation in various programming languages and technologies.
+I graduated from Noakhali Science and Technology University with a degree in Computer Science and have a strong foundation in various programming languages and technologies.<br>Currently, I am serving as a Junior Software Programmer at Synergy Interface Ltd, where I work on developing innovative software solutions and enhancing my technical skills.
 
 Skills: Languages: C, C++, C#, JavaScript <br>Frameworks & Libraries: ASP.NET, MVC, .NET Core, React.js, Bootstrap, Tailwind CSS<br> Databases: MySQL, SQL Server
 
