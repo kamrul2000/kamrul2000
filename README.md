@@ -16,42 +16,79 @@
 
 ---
 
+## 👨‍💻 About Me
+
+- 💼 **Associate Software Engineer** at ERA InfoTech Limited  
+- 🧑‍💻 Former **Junior Software Programmer** at Synergy Interface Ltd  
+- 🎓 Graduate in **Computer Science & Engineering**  
+- ⚡ Passionate about building **scalable enterprise applications**  
+- 🔥 Strong focus on **Full Stack Development (Angular + ASP.NET Core)**  
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js" />
+  <img src="https://img.shields.io/badge/C-blue?style=flat&logo=c&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C%23-purple?style=flat&logo=csharp&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black"/> 
 </p>
 
 ### ⚙️ Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,angular,bootstrap,tailwind" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Angular-red?style=flat&logo=angular&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Tailwind-blue?style=flat&logo=tailwindcss&logoColor=white"/> 
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SQL%20Server-red?style=flat&logo=microsoftsqlserver&logoColor=white"/> 
 </p>
+
+---
+
+## 🚀 Current Focus
+
+- 🔭 Working on **enterprise-level applications**
+- ⚙️ Backend API development & integration  
+- 🧠 Learning **Design Patterns & SOLID Principles**  
+- 📈 Improving **system design & performance optimization**  
 
 ---
 
 ## 📌 Featured Projects
 
 🔹 **InventorySaaS**  
+**Tech:** ASP.NET Core, Angular, SQL Server  
 - Multi-tenant inventory management system with product, stock, and order tracking  
-- Implemented role-based access, REST API integration, and scalable backend architecture  
-
-🔹 **E-Recruitment System**  
-- Full-stack recruitment platform for job posting, candidate application, and hiring workflow  
-- Developed secure authentication, data management, and admin approval processes  
-
-🔹 **FootballStatify**  
-- Web application for tracking football statistics, player performance, and match analytics  
-- Built dynamic UI with real-time data handling and interactive dashboards   
-
+- Implemented role-based access control and RESTful API architecture  
+- Designed scalable backend services and integrated dynamic frontend dashboard  
 
 ---
+
+🔹 **E-Recruitment System**  
+**Tech:** ASP.NET Core, Angular, SQL Server  
+- Full-stack recruitment platform for job posting, candidate application, and hiring workflow  
+- Built secure authentication and admin approval system  
+- Developed API-driven architecture for efficient data handling  
+
+---
+
+🔹 **FootballStatify**  
+**Tech:** ASP.NET Core, Angular, SQL Server  
+- Web application for tracking football statistics and player performance  
+- Built interactive dashboards with real-time data visualization  
+- Integrated backend APIs with dynamic frontend UI for analytics  
+
+---
+
+
+
 
 <!-- Footer -->
 <p align="center">
