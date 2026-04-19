@@ -52,14 +52,6 @@
 
 ---
 
-## 🚀 Current Focus
-
-- 🔭 Working on **enterprise-level applications**
-- ⚙️ Backend API development & integration  
-- 🧠 Learning **Design Patterns & SOLID Principles**  
-- 📈 Improving **system design & performance optimization**  
-
----
 
 ## 📌 Featured Projects
 
