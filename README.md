@@ -16,16 +16,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 💼 **Associate Software Engineer** at *ERA InfoTech Limited*  
-- 🧑‍💻 Ex **Junior Software Programmer** at *Synergy Interface Ltd*  
-- 🎓 CSE Graduate from *Noakhali Science and Technology University*  
-- ⚡ Focused on **Full Stack Development & System Design**  
-- 🔥 Working with **Angular + .NET Core + SQL Server**
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
