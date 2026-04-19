@@ -3,11 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md.%20Kamrul%20Hassan%20Khan&fontSize=35&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Kamrul Hassan</h1>
 <h3 align="center">🚀 Full Stack Software Engineer | Angular • .NET Core • SQL Server</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamrul2000&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <a href="mailto:kamrulmuh39@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/kamrul2000/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
@@ -26,7 +30,7 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js" />
 </p>
 
 ### ⚙️ Frameworks & Tools
@@ -39,15 +43,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge" />
 </p>
-
----
-
-## 🚀 Current Focus
-
-- 🔭 Building **enterprise-level applications**
-- ⚙️ Backend API integration & optimization
-- 🧠 Learning **Design Patterns & SOLID Principles**
-- 📈 Improving **performance & scalable architecture**
 
 ---
 
@@ -65,33 +60,6 @@
 - Web application for tracking football statistics, player performance, and match analytics  
 - Built dynamic UI with real-time data handling and interactive dashboards   
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamrul2000&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrul2000&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:kamrulmuh39@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/kamrul2000/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-💡 I love turning complex problems into simple, scalable solutions.
 
 ---
 
